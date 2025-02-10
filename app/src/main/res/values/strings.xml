@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TomoroCoffe</string>
+    <string name="home">Home</string>
+    <string name="menu">Menu</string>
+    <string name="order">Order</string>
+    <string name="profile">Me</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ini_profile">Ini halaman profile</string>
+    <string name="ini_home">Ini halaman home</string>
+    <string name="ini_menu">Ini halaman menu</string>
+    <string name="ini_order">Ini halaman order</string>
+    <string name="outlet">Belum ada pesanan</string>
+    <string name="b_card">Belum ada pesanan</string>
+    <string name="p_voucher">Belum ada pesanan</string>
+    <string name="title_activity_order_fragment">OrderFragment</string>
+</resources>

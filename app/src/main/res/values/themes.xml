@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PodoMoroCoffe" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#D1512D</item>
+        <item name="colorPrimaryVariant">#D1512D</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+    <style name="Theme.PodoMoroCoffe" parent="Base.Theme.PodoMoroCoffe" />
+</resources>
